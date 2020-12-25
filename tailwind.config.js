@@ -16,7 +16,9 @@ module.exports = {
         },
         colors: {
             // Build your palette here
-            gray: colors.blueGray,     
+            gray: colors.blueGray,   
+            orange: colors.orange,
+            white: colors.white,  
         },
     },
 
